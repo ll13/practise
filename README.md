@@ -1,2 +1,0 @@
-# practise
-just practise code
